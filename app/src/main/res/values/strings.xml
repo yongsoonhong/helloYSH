@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">helloYSH</string>
+    <string name="my_name">Yong Soon Hong</string>
+    <string name="show">Show</string>
+    <string name="hide">Hide</string>
+    <string name="contact">Contact</string>
+
+</resources>
